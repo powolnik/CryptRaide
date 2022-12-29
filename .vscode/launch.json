@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch CryptRaide (Debug)",
+			"request": "launch",
+			"program": "D:\\Praca\\UE5Projects\\CryptRaide\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "CryptRaide Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\DEV\\EngineItself\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch CryptRaide (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Praca\\UE5Projects\\CryptRaide\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "CryptRaide Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\DEV\\EngineItself\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch CryptRaide (Development)",
+			"request": "launch",
+			"program": "D:\\Praca\\UE5Projects\\CryptRaide\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "CryptRaide Win64 Development Build",
+			"args": [
+			],
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\DEV\\EngineItself\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch CryptRaide (Test)",
+			"request": "launch",
+			"program": "D:\\Praca\\UE5Projects\\CryptRaide\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "CryptRaide Win64 Test Build",
+			"args": [
+			],
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\DEV\\EngineItself\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch CryptRaide (Shipping)",
+			"request": "launch",
+			"program": "D:\\Praca\\UE5Projects\\CryptRaide\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "CryptRaide Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\DEV\\EngineItself\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch CryptRaideEditor (Debug)",
+			"request": "launch",
+			"program": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "CryptRaideEditor Win64 Debug Build",
+			"args": [
+				"D:\\Praca\\UE5Projects\\CryptRaide\\CryptRaide.uproject"
+			],
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\DEV\\EngineItself\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch CryptRaideEditor (DebugGame)",
+			"request": "launch",
+			"program": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "CryptRaideEditor Win64 DebugGame Build",
+			"args": [
+				"D:\\Praca\\UE5Projects\\CryptRaide\\CryptRaide.uproject"
+			],
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\DEV\\EngineItself\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch CryptRaideEditor (Development)",
+			"request": "launch",
+			"program": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "CryptRaideEditor Win64 Development Build",
+			"args": [
+				"D:\\Praca\\UE5Projects\\CryptRaide\\CryptRaide.uproject"
+			],
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "C:\\DEV\\EngineItself\\UE_5.1"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\Praca\\UE5Projects\\CryptRaide\\CryptRaide.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "C:\\DEV\\EngineItself\\UE_5.1"
+		}
+	]
+}

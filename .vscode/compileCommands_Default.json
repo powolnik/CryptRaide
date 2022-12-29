@@ -1,0 +1,186 @@
+[
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\Collectable.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\Collectable.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CollectedWidget.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CollectedWidget.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaide.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaide.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaide.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaideCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaideCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaideGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaideGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaideProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\CryptRaideProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\Grabber.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\MoverComp.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\MoverComp.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\MyBoxTrigger.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\MyBoxTrigger.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Praca\\UE5Projects\\CryptRaide\\Source\\CryptRaide\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Praca\\UE5Projects\\CryptRaide\\.vscode\\compileCommands_Default\\CryptRaide.255.rsp"
+		],
+		"directory": "C:\\DEV\\EngineItself\\UE_5.1\\Engine\\Source"
+	}
+]
