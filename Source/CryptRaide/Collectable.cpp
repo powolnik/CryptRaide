@@ -21,7 +21,6 @@ ACollectable::ACollectable()
 void ACollectable::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 void ACollectable::OverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
@@ -37,7 +36,6 @@ void ACollectable::Collected_Implementation()
 
 	if (GameMode)
 	{
-	GameMode->ItemCollected();
+		GameMode->ItemCollected();
 	}
-
 }
